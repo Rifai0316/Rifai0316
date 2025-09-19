@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+<p>ropiu dan ipong selamanya</p>
+<b>ropiu cinta matiku</b>
 <!--
 **Rifai0316/Rifai0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
