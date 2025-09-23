@@ -1,4 +1,5 @@
 ## Hi there 👋
+<p>aku dan rofiu tak pernah terpisahkan</p>
 <!--
 **Rifai0316/Rifai0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
