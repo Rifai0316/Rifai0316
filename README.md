@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 ![download](https://github.com/user-attachments/assets/cf822ccc-15e8-4e54-b0c5-8e5e7bc33896)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,php)](https://skillicons.dev)
